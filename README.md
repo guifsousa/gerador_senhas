@@ -1,54 +1,60 @@
-**Gerador de Senhas com Interface Gráfica**
+**🔐 Gerador de Senhas com Interface Gráfica**
 
-Projeto simples em Python que gera senhas seguras de forma aleatória, com interface gráfica desktop desenvolvida usando Tkinter.
+Projeto simples desenvolvido em Python para geração de senhas seguras e aleatórias, utilizando uma interface gráfica desktop criada com Tkinter.
 
-O objetivo do projeto é praticar:
+Este projeto tem como foco o aprendizado prático de conceitos fundamentais de programação e versionamento de código, sendo ideal para fins de estudo e portfólio.
 
-Lógica de programação
+🎯 Objetivos do Projeto
+**
+O desenvolvimento deste gerador de senhas tem como objetivos:**
 
-Uso de bibliotecas padrão do Python
+- Praticar lógica de programação
 
-Criação de interfaces gráficas
+- Utilizar bibliotecas padrão do Python
 
-Versionamento de código com Git e GitHub
+- Criar interfaces gráficas desktop com Tkinter
 
-**Interface do Programa**
+- Aplicar versionamento de código com Git e GitHub
 
-A interface permite ao usuário:
+- Interface do Programa
 
+**A interface gráfica é simples e intuitiva, permitindo ao usuário:
+**
 Definir o tamanho da senha
 
-Escolher os tipos de caracteres:
+**Selecionar os tipos de caracteres desejados:**
 
-Letras maiúsculas
+Letras maiúsculas (A–Z)
 
-Letras minúsculas
+Letras minúsculas (a–z)
 
-Números
+Números (0–9)
 
-Símbolos
+Símbolos (!@#$%…)
 
-Gerar a senha
+Gerar a senha de forma aleatória
 
-Copiar a senha para a área de transferência
+Copiar a senha gerada para a área de transferência
 
 📸 Prints da Interface
 
 📌 Observação: As imagens abaixo mostram a aplicação em execução local.
 
 **Tela Principal**
-<img width="439" height="436" alt="image" src="https://github.com/user-attachments/assets/06468490-de58-46c5-9b18-55c911ee53ea" />
+
+<img width="437" height="436" alt="image" src="https://github.com/user-attachments/assets/e995c7f0-64bc-4c4a-a27d-eb2259ac4285" />
 
 **Senha Gerada**
-<img width="436" height="434" alt="image" src="https://github.com/user-attachments/assets/baeda08d-6a9d-45c6-81bf-17e25c1c6be1" />
 
-**Tecnologias Utilizadas**
+<img width="440" height="439" alt="image" src="https://github.com/user-attachments/assets/10a39fbd-14d1-419c-8ddc-6a8fb51c7534" />
 
-Python 3
 
-Tkinter (interface gráfica)
+**🛠️ Tecnologias Utilizadas**
 
-random e string (geração de senhas)
+-Python 3
 
-Git & GitHub (versionamento)
+-Tkinter — interface gráfica desktop
 
+-random e string — geração de senhas aleatórias
+
+-Git & GitHub — versionamento e hospedagem do código
